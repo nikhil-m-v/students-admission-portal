@@ -24,7 +24,7 @@ This project is a web application for managing user entries and status checks, d
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nikhil-m-v/students-admission-portal.git
 
 2.Import the SQL database files to your MySQL server.
 
